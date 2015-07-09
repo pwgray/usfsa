@@ -1,0 +1,48 @@
+{
+  "ProjectName": "fscc Hybrid",
+  "ProjectGuid": "4772a264-a6e7-4b22-8c75-f94cbbb89509",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.fsccHybrid",
+  "DisplayName": "fscc Hybrid",
+  "Author": "",
+  "Description": "fscc Hybrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{df8a4e95-5612-4932-a47b-90344fb53c7c}",
+  "WP8ProductID": "{6d600b93-f880-475c-899f-1a3ef33f0f90}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.fsccHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.network-information"
+  ]
+}
